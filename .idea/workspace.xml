@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="973cd665-3c38-4731-8961-b23515923cac" name="Changes" comment="Classes updated with updated methods and lombok methods. class Conteudo added.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/desafio/dominio/IDev.java" afterDir="false" />
+    <list default="true" id="973cd665-3c38-4731-8961-b23515923cac" name="Changes" comment="Methods listaConteudosInscritos and listaConteudosConcluidos created">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/desafio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/desafio/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/desafio/dominio/Dev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/desafio/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dio/desafio/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/desafio/dominio/Dev.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dio/desafio/dominio/Dev.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643418280276</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Methods listaConteudosInscritos and listaConteudosConcluidos created">
+      <created>1643419272304</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643419272304</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +137,7 @@
     <MESSAGE value="Mentoria and Curso classes created." />
     <MESSAGE value="Classes updated with updated methods and lombok methods." />
     <MESSAGE value="Classes updated with updated methods and lombok methods. class Conteudo added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes updated with updated methods and lombok methods. class Conteudo added." />
+    <MESSAGE value="Methods listaConteudosInscritos and listaConteudosConcluidos created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Methods listaConteudosInscritos and listaConteudosConcluidos created" />
   </component>
 </project>
