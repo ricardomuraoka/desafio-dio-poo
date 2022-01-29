@@ -18,8 +18,8 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Camila Cavalgante** - *Reference Project* - [Camila Cavancante](lhttps://github.com/cami-la/desafio-poo-dio)
-* **Ricardo Muraoka** - *lombok e Maven, as well as a few changes* - [Ricardo Muraoka](https://www.linkedin.com/in/ricardo-muraoka/)
+* **Camila Cavalcante** - *Reference Project* - [Camila Cavancante](lhttps://github.com/cami-la/desafio-poo-dio/)
+* **Ricardo Muraoka** - *lombok and Maven, as well as a few changes* - [Ricardo Muraoka](https://www.linkedin.com/in/ricardo-muraoka/)
 
 
 ## 📄 License
