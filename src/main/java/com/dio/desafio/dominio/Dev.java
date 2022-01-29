@@ -11,7 +11,7 @@ import java.util.Set;
 @Getter
 @Setter
 @EqualsAndHashCode
-public class Dev {
+public class Dev implements IDev{
 
     private String nome;
     private Set<Conteudo> conteudosInscritos = new LinkedHashSet<>();
@@ -37,5 +37,15 @@ public class Dev {
                 .stream()
                 .mapToDouble(Conteudo::calcularXp)
                 .sum();
-        }
     }
+
+    @Override
+    public void listaConteudosInscritos() {
+        System.out.println("Conteúdos Inscritos: " + getConteudosInscritos());
+    }
+
+    @Override
+    public void listaConteudosConcluidos() {
+        System.out.println("Conteúdos Concluídos: " + getConteudosConcluidos());
+    }
+}

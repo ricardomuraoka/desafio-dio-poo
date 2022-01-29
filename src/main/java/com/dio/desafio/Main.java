@@ -35,8 +35,8 @@ public class Main {
         devRicardo.setNome("Ricardo");
         devRicardo.inscreverBootcamp(bootcamp);
         devRicardo.progredir();
-        System.out.println("Conteúdos Inscritos: " + devRicardo.getConteudosInscritos());
-        System.out.println("Conteúdos Concluídos: " + devRicardo.getConteudosConcluidos());
+        devRicardo.listaConteudosInscritos();
+        devRicardo.listaConteudosConcluidos();
         System.out.println("XP: " + devRicardo.calcularTotalXP());
 
         Dev devJoao = new Dev();
@@ -44,8 +44,8 @@ public class Main {
         devJoao.inscreverBootcamp(bootcamp);
         devJoao.progredir();
         devJoao.progredir();
-        System.out.println("Conteúdos Inscritos: " + devJoao.getConteudosInscritos());
-        System.out.println("Conteúdos Concluídos: " + devJoao.getConteudosConcluidos());
+        devJoao.listaConteudosInscritos();
+        devJoao.listaConteudosConcluidos();
         System.out.println("XP: " + devJoao.calcularTotalXP());
 
 
