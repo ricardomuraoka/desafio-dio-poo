@@ -16,9 +16,12 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## ✒️ Authors
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Reference Project and mentor
 
 * **Camila Cavalcante** - *Reference Project* - [Camila Cavancante](https://github.com/cami-la/desafio-poo-dio)
+
+Project implementation
+
 * **Ricardo Muraoka** - *lombok and Maven, as well as a few changes* - [Ricardo Muraoka](https://www.linkedin.com/in/ricardo-muraoka/)
 
 
