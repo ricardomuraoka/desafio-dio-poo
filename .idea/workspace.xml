@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="973cd665-3c38-4731-8961-b23515923cac" name="Changes" comment="Mentoria and Curso classes created.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/desafio/dominio/Dev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="973cd665-3c38-4731-8961-b23515923cac" name="Changes" comment="Classes updated with updated methods and lombok methods. class Conteudo added.">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/desafio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/desafio/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/desafio/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dio/desafio/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/desafio/dominio/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dio/desafio/dominio/Curso.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/desafio/dominio/Mentoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dio/desafio/dominio/Mentoria.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643412874047</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Classes updated with updated methods and lombok methods. class Conteudo added.">
+      <created>1643417995097</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643417995097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +117,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore" />
     <MESSAGE value="Mentoria and Curso classes created." />
-    <option name="LAST_COMMIT_MESSAGE" value="Mentoria and Curso classes created." />
+    <MESSAGE value="Classes updated with updated methods and lombok methods." />
+    <MESSAGE value="Classes updated with updated methods and lombok methods. class Conteudo added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes updated with updated methods and lombok methods. class Conteudo added." />
   </component>
 </project>
