@@ -8,8 +8,6 @@ Com isso, você poderá desenvolver sua capacidade de abstração com um problem
 
 ## 🛠️ Built with
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [Maven](https://maven.apache.org/) - Dependecies manager
 * [Lombok](https://projectlombok.org/) - A java library that spices up java.
 
