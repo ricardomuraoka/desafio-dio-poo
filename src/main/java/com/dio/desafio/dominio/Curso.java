@@ -1,10 +1,22 @@
 package com.dio.desafio.dominio;
 
-import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
 
-@Data
-public class Curso {
-    private String titulo;
-    private String descricao;
+@Getter
+@Setter
+@ToString(callSuper = true)
+public class Curso extends Conteudo {
+
     private int cargaHoraria;
+
+    public Curso() {
+
+    }
+
+    @Override
+    public double calcularXp() {
+        return 0;
+    }
 }
